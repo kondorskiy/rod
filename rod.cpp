@@ -9,6 +9,8 @@
     Alexey D. Kondorskiy and Arseny V. Mekshun, Bulletin of the Lebedev Physics Institute, Vol. XX, XXX-XXX, (2023).
     DOI XXXXXXX/XXXXXXXX.
 
+  A similar code for a triangular nanoprism with rounded corners can be found at https://github.com/kondorskiy/triangle.
+
   Corresponding author e-mail: kondorskiy@lebedev.ru, kondorskiy@gmail.com.
 
 ======================================================================================================================*/
