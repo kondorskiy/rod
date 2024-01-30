@@ -6,8 +6,8 @@
     the the analytical model, including the size-dependent dielectric function for silver and gold.
 
   Please cite the following paper:
-    Alexey D. Kondorskiy and Arseny V. Mekshun, Bulletin of the Lebedev Physics Institute, Vol. XX, XXX-XXX, (2023).
-    DOI XXXXXXX/XXXXXXXX.
+    Alexey D. Kondorskiy and Arseny V. Mekshun, Bulletin of the Lebedev Physics Institute, Vol. 50, 577–580, (2023)
+    https://link.springer.com/article/10.3103/S1068335623120072.
 
   A similar code for a triangular nanoprism with rounded corners can be found at https://github.com/kondorskiy/triangle.
 
